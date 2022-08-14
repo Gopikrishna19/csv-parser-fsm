@@ -1,0 +1,14 @@
+{
+  "name": "csv-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index-gen-3.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Gopikrishna Sathyamurthy",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
